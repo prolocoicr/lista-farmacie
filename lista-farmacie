@@ -1,0 +1,107 @@
+[
+    {
+        "nome": "Farmacia Affatati Dr. Giuseppe",
+        "indirizzo": {
+            "via": "Piazza del popolo, 11",
+            "cap": "88841",
+            "città": "Isola di Capo Rizzuto",
+            "provincia": "Crotone"
+        },
+        "numero_telefono": "0962 791103",
+        "consegna_a_domicilio": true,
+        "immagine": "/img/Affatati.webp",
+        "orari": {
+            "Lunedì": "08:00 - 12:30, 16:30 - 20:30",
+            "Martedì": "08:00 - 12:30, 16:30 - 20:30",
+            "Mercoledì": "08:00 - 12:30, 16:30 - 20:30",
+            "Giovedì": "00:00 - 24:00",
+            "Venerdì": "00:00 - 24:00",
+            "Sabato": "08:00 - 12:30, 16:30 - 20:30",
+            "Domenica": "08:30 - 12:30"
+        }
+    },
+    {
+        "nome": "Farmacia Rotella Rosario",
+        "indirizzo": {
+            "via": "Piazza Roma",
+            "cap": "88841",
+            "città": "Isola di Capo Rizzuto",
+            "provincia": "Crotone"
+        },
+        "numero_telefono": "0962 791016",
+        "consegna_a_domicilio": true,
+        "immagine": "/img/Rotella.webp",
+        "orari": {
+            "Lunedì": "08:30 - 13:00, 16:30 - 20:00",
+            "Martedì": "08:30 - 13:00, 16:30 - 20:00",
+            "Mercoledì": "08:30 - 13:00, 16:30 - 20:00",
+            "Giovedì": "08:30 - 13:00, 16:30 - 20:00",
+            "Venerdì": "08:30 - 13:00, 16:30 - 20:00",
+            "Sabato": "Chiuso",
+            "Domenica": "08:30 - 13:00, 16:30 - 20:00"
+        }
+    },
+    {
+        "nome": "Farmacia Asteriti Dott. Raffaele",
+        "indirizzo": {
+            "via": "Via Duomo, 68, Le Cstella KR",
+            "cap": "88816",
+            "città": "Isola di Capo Rizzuto",
+            "provincia": "Crotone"
+        },
+        "numero_telefono": "0962 795122",
+        "consegna_a_domicilio": false,
+        "immagine": "/img/castella.jpg",
+        "orari": {
+            "Lunedì": "08:30 - 13:00, 16:30 - 20:00",
+            "Martedì": "08:30 - 13:00, 16:30 - 20:00",
+            "Mercoledì": "08:30 - 13:00, 16:30 - 20:00",
+            "Giovedì": "08:30 - 13:00, 16:30 - 20:00",
+            "Venerdì": "08:30 - 13:00, 16:30 - 20:00",
+            "Sabato": "08:00 - 13",
+            "Domenica": "Chiuso"
+        }
+    },
+    {
+        "nome": "Parafarmacia Farmasanitaria Dottoressa Marcellina Cristodaro",
+        "indirizzo": {
+            "via": "Via Francesco Petrarca 4",
+            "cap": "88841",
+            "città": "Isola di Capo Rizzuto",
+            "provincia": "Crotone"
+        },
+        "numero_telefono": "0962 792512",
+        "consegna_a_domicilio": false,
+        "immagine": "/img/santanna.webp",
+        "orari": {
+            "Lunedì": "08:30 - 13:00, 16:30 - 20:00",
+            "Martedì": "08:30 - 13:00, 16:30 - 20:00",
+            "Mercoledì": "08:30 - 13:00, 16:30 - 20:00",
+            "Giovedì": "08:30 - 13:00, 16:30 - 20:00",
+            "Venerdì": "08:30 - 13:00, 16:30 - 20:00",
+            "Sabato": "09:00 - 13:00",
+            "Domenica": "Chiuso"
+        }
+    },
+    {
+        "nome": "Parafarmacia e Drogheria Del Mare Dottor Domenico Gallelli",
+        "indirizzo": {
+            "via": "Via Faro 23 loc. Capo Rizzuto",
+            "cap": "88841",
+            "città": "Isola di Capo Rizzuto",
+            "provincia": "Crotone"
+        },
+        "numero_telefono": "351 7578767",
+        "consegna_a_domicilio": false,
+        "immagine": "/img/gallelli.jpeg",
+        "orari": {
+            "Lunedì": "09:30 - 13:00, 17:30 - 20:30",
+            "Martedì": "09:30 - 13:00, 17:30 - 20:30",
+            "Mercoledì": "09:30 - 13:00, 17:30 - 20:30",
+            "Giovedì": "09:30 - 13:00, 17:30 - 20:30",
+            "Venerdì": "09:30 - 13:00, 17:30 - 20:30",
+            "Sabato": "09:30 - 13:00, 17:30 - 20:30",
+            "Domenica": "Chiuso"
+        }
+    }
+]
